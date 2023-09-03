@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a90cc159c874003ad37a8fb789f2673, type: 3}
+  m_Name: Player Stats
+  m_EditorClassIdentifier: 
+  moveSpeed: 200
+  acceleration: 0.3
+  rotationSpeed: 0.05
+  tankTopRotationAcceleration: 10
+  enemyFinderRadius: 4
+  initialPaletteHp: 100
+  palletHpAddInterval: 5
+  repairTime: 7
+  initialAttackSpeed: 1
+  attackSpeedSubtractAmount: 0.05
+  minAttackSpeed: 0.3
+  bulletForce: 25
+  initialBulletExplosionRadius: 0.6
+  bulletExplosionRadiusAddInterval: 0.05
+  bulletSpeed: 15
+  maxLevel: 50

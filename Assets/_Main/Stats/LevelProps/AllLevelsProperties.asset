@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7a9a0dae414f42bfaaeb19dcec8886, type: 3}
+  m_Name: AllLevelsProperties
+  m_EditorClassIdentifier: 
+  levelVisualsList:
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 9e79976a735b8fc4ca22988f59d02a93,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: b3e2fef28c3daeb45bc2a5f82e03088f,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 490206763387716418e511bb24fd81f8,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 1f9464e4487b8b24b996c8940bab62a5,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 1e70a1a83ee92304c994cc8ebf25aa31,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: c917921fac67f2244a9268d45570c5db,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 767fa2dae3a0b594699864ed5c0649a7,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 8087432db765ad041bec63c2d48c8b28,
+      type: 3}
+  - groundPrefab: {fileID: 5836268033678753541, guid: 5490bc2275db1ae4a9068bff131431dc,
+      type: 3}
+    relicPrefab: {fileID: 1868281389721344232, guid: 308e36fa3ec260546a6abede8b1fb7c0,
+      type: 3}

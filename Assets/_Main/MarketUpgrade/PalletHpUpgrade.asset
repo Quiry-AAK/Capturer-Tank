@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0aa6a744df4ebb8d60ab3bec57474b, type: 3}
+  m_Name: PalletHpUpgrade
+  m_EditorClassIdentifier: 
+  upgradesEnum: 2
+  upgradeImageAndMeshFilterHolders:
+  - mesh: {fileID: 2541657962402959866, guid: cde90d83bd5b68f4a8103ca7ab4ded6a, type: 3}
+    sprite: {fileID: 21300000, guid: 64fa8f1dc88a46747afe1a7bcb437363, type: 3}
+  - mesh: {fileID: 375499519996348119, guid: c48a40643ae7ba7499e14cddda71b476, type: 3}
+    sprite: {fileID: 21300000, guid: aa9eb67890ceacd40935a20e54252936, type: 3}
+  - mesh: {fileID: 931473170629759082, guid: 466cb28602d9ac04a9b1edbb751202af, type: 3}
+    sprite: {fileID: 21300000, guid: 547e43d641aa53b43a2fe6e0539dd490, type: 3}
+  - mesh: {fileID: 6642323331451590780, guid: cc22d32aa3be6fd499bf3b150aaefb3f, type: 3}
+    sprite: {fileID: 21300000, guid: 752fbf438bb63cc42b4d8a34d6d8e41c, type: 3}
+  - mesh: {fileID: -3192186292194863804, guid: 877e2bcad65227d42a9bc828aa013622, type: 3}
+    sprite: {fileID: 21300000, guid: 011c2fe2358d2794aa23fb2b9186e708, type: 3}
+  shopUpgradeInfoTxt: HEALTH
+  initialCost: 47
+  costMultiplier: 1.75

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0aa6a744df4ebb8d60ab3bec57474b, type: 3}
+  m_Name: Drone2Upgrade
+  m_EditorClassIdentifier: 
+  upgradesEnum: 4
+  upgradeImageAndMeshFilterHolders:
+  - mesh: {fileID: 4661156965754024436, guid: 3bddcff004ff49c4293bb8696b74cd9a, type: 3}
+    sprite: {fileID: 21300000, guid: 76db409133b1996419577ba1b0354745, type: 3}
+  - mesh: {fileID: 5019901195088184246, guid: 1402434489e559449bbf4e68a3a79964, type: 3}
+    sprite: {fileID: 21300000, guid: ce5eb07dbbf0c6d4883523bba40eadb9, type: 3}
+  - mesh: {fileID: -5692023706376228897, guid: 7e8bd58e62bc81f4abef31d8ea3c609b, type: 3}
+    sprite: {fileID: 21300000, guid: a872c863def632d4ebbc77c398a9674c, type: 3}
+  - mesh: {fileID: -3580182970509698883, guid: 86609eecd1c31544da93dd272f4c371b, type: 3}
+    sprite: {fileID: 21300000, guid: b2702dd6ecef9fd4baf359d1f5ae1b4a, type: 3}
+  - mesh: {fileID: 6348601217681886653, guid: afb4b59af9b3a02479bc7303c2d1f96c, type: 3}
+    sprite: {fileID: 21300000, guid: f408fa84975ac8f428ee214e35cccdfa, type: 3}
+  - mesh: {fileID: 7393881143556798808, guid: f49d8f4a968b2b74a9d82dea8cc3510b, type: 3}
+    sprite: {fileID: 21300000, guid: 170429edda2b05247ba962cfb8a42c4c, type: 3}
+  shopUpgradeInfoTxt: 
+  initialCost: 70
+  costMultiplier: 1.75
+  unlockCost: 5000

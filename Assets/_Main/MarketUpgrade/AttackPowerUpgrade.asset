@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0aa6a744df4ebb8d60ab3bec57474b, type: 3}
+  m_Name: AttackPowerUpgrade
+  m_EditorClassIdentifier: 
+  upgradesEnum: 1
+  upgradeImageAndMeshFilterHolders:
+  - mesh: {fileID: 4313572755579560883, guid: cde90d83bd5b68f4a8103ca7ab4ded6a, type: 3}
+    sprite: {fileID: 21300000, guid: 8d04a2231fd8fd548b01588b66103bf8, type: 3}
+  - mesh: {fileID: 5662517890253058635, guid: c48a40643ae7ba7499e14cddda71b476, type: 3}
+    sprite: {fileID: 21300000, guid: 7984bf18645f7f24697064246f87ddeb, type: 3}
+  - mesh: {fileID: -9054079709381886616, guid: 466cb28602d9ac04a9b1edbb751202af, type: 3}
+    sprite: {fileID: 21300000, guid: 2cb787f010e4a1643a429f51abc2418d, type: 3}
+  - mesh: {fileID: -7284895397437401130, guid: cc22d32aa3be6fd499bf3b150aaefb3f, type: 3}
+    sprite: {fileID: 21300000, guid: e665dff63c387f64da56b364c4db6290, type: 3}
+  - mesh: {fileID: 4861316208134937066, guid: 877e2bcad65227d42a9bc828aa013622, type: 3}
+    sprite: {fileID: 21300000, guid: c131bf26b055128428f30fb1816da629, type: 3}
+  shopUpgradeInfoTxt: ATK. POWER
+  initialCost: 38
+  costMultiplier: 1.75
